@@ -1,0 +1,1 @@
+// Hello john เพราะว่าดึงค่าจาก phrase กับ user 

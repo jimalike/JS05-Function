@@ -1,0 +1,1 @@
+//ผลลัพธ์ ระเบิดเพราะว่า block scope changing

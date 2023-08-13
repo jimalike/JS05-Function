@@ -1,0 +1,1 @@
+const tempConvert = (tem) => (tem + 32) * 1.8;
